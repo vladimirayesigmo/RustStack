@@ -1,0 +1,75 @@
+RustStack End User License Agreement (proprietary)
+
+Copyright (c) 2026 vladimirayesigmo. All rights reserved.
+
+This is a license for the compiled RustStack application and its bundled
+assets (the "Software"). The source code is not distributed and is not
+licensed under this agreement.
+
+1. License grant
+
+You may:
+a) download and run the Software for personal, non-commercial use on
+   devices you own or control;
+b) make backup copies of the original archive;
+c) share the original, unmodified archive with others free of charge,
+   provided this license, NOTICE.md and the third-party notices in the
+   licenses/ folder are included.
+
+Voluntary donations for the free Software are not commercial use.
+
+2. Restrictions
+
+You may not:
+a) modify, translate, patch, repack or create derivative works of the
+   Software;
+b) reverse engineer, decompile or disassemble the Software, except to the
+   extent such a restriction is prohibited by applicable law;
+c) sell, rent, lease, sublicense or otherwise commercially exploit the
+   Software, including paid builds, paid support or paid distribution;
+d) redistribute the Software as part of another product or service;
+e) remove or alter this license, NOTICE.md, third-party notices or
+   copyright notices;
+f) use the author's name, logos or the "RustStack" name to promote your
+   own products;
+g) use the Software in violation of applicable law or of the rules of the
+   game or service it interacts with.
+
+3. Third-party components
+
+The Software contains third-party components licensed under their own
+terms (see NOTICE.md and the licenses/ folder). Those terms prevail for
+those components. Nothing in this agreement limits rights granted to you
+by their licensors.
+
+4. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. THE AUTHOR
+DOES NOT WARRANT THAT THE SOFTWARE IS ERROR-FREE, UNINTERRUPTED, OR SAFE
+FOR USE WITH ANY PARTICULAR GAME, SERVER OR ANTI-CHEAT SYSTEM.
+
+5. Limitation of liability
+
+IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE. THIS INCLUDES, WITHOUT LIMITATION,
+LOSS OF DATA, LOSS OF GAME ACCOUNTS, BANS, OR DAMAGE TO CONFIGURATION
+FILES.
+
+6. Termination
+
+This license terminates automatically if you breach its terms. On
+termination you must stop using the Software and delete all copies.
+Sections 2, 4, 5 and 7 survive termination.
+
+7. General
+
+This is the entire agreement about the Software. If a provision is held
+unenforceable, the remaining provisions stay in effect. A failure to
+enforce a provision is not a waiver. This license applies to every version
+of the Software unless that version ships with a different license.
+
+Contact: github.com/vladimirayesigmo
